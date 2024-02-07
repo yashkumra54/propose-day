@@ -323,7 +323,7 @@ function draw() {
   updateStars();
   drawText();
 
-  if (frameNumber < 99999) {
+  if (frameNumber < 8683915838) {
     frameNumber++;
   }
   window.requestAnimationFrame(draw);
